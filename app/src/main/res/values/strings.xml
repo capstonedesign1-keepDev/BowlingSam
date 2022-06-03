@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BowlingSam</string>
+    <string name="app_name">볼링쌤</string>
     <string name="request_permission">This app needs camera permission.</string>
     <string name="tv_score">자세 점수 : %.2f</string>
     <string name="tv_time">시간 : %d</string>
