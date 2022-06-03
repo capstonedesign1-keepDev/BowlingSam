@@ -7,9 +7,46 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:198088682198:android:8153feaf8c327f07633777",
+        "mobilesdk_app_id": "1:198088682198:android:062d61c6d4ab3473633777",
         "android_client_info": {
           "package_name": "org.examples.BowlingSam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198088682198-n27pp5tsbjt6ev4f7jol4ukspms7hs4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.examples.BowlingSam",
+            "certificate_hash": "aebd3001c22a6bccefa22ebd167349c408956ce1"
+          }
+        },
+        {
+          "client_id": "198088682198-cfn48p52kgn7s4h4b7m82pn0k0kj7598.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo8WMaAROBaXSf5L3Kxi1K3_3hA_TpRBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198088682198-cfn48p52kgn7s4h4b7m82pn0k0kj7598.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198088682198:android:8153feaf8c327f07633777",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.poseestimation"
         }
       },
       "oauth_client": [
@@ -17,7 +54,7 @@
           "client_id": "198088682198-c9t5c65ue36urm87a5kqfcl21h5v02t8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "org.examples.BowlingSam",
+            "package_name": "org.tensorflow.lite.examples.poseestimation",
             "certificate_hash": "aebd3001c22a6bccefa22ebd167349c408956ce1"
           }
         },
