@@ -175,22 +175,7 @@
             android:background="?attr/colorSurface">
 
         </TextView>
-        <Button
-            android:id="@+id/myMode_btn"
-            android:layout_width="match_parent"
-            android:layout_height="70dp"
-            android:text="모드 변경"
-            android:textSize="18sp"
-            android:insetTop="0dp"
-            android:insetBottom="3dp"
-            android:gravity="center_vertical"
-            android:paddingLeft="20sp"
-            android:paddingRight="20sp"
-            app:cornerRadius="0dp"
-            android:textColor="?attr/titleTextColor"
-            android:backgroundTint="?attr/colorSurface"
-            android:drawableRight="@drawable/drawable_right_image_menu"
-            android:drawableTint="#979797"/>
+
         <Button
             android:id="@+id/myLogOut_btn"
             android:layout_width="match_parent"

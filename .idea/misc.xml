@@ -15,7 +15,7 @@
         <entry key="..\:/Users/yee95/Desktop/examples-master1/examples-master/lite/examples/pose_estimation/android/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.1" />
         <entry key="..\:/dev/testDB/app/src/main/res/layout/fragment_settings.xml" value="0.13177083333333334" />
         <entry key="..\:/dev/testDB/app/src/main/res/layout/history_list_item.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_historypopup.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/activity_historypopup.xml" value="0.3931166102941758" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.20377960205078122" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_my_info.xml" value="0.1" />
@@ -26,12 +26,14 @@
         <entry key="app/src/main/res/layout/custom_dialog_age.xml" value="0.28229166666666666" />
         <entry key="app/src/main/res/layout/custom_dialog_ballsize.xml" value="0.28229166666666666" />
         <entry key="app/src/main/res/layout/custom_dialog_nickname.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/example_dialog.xml" value="0.2223731884057971" />
         <entry key="app/src/main/res/layout/fragment_grip.xml" value="0.23822463768115942" />
         <entry key="app/src/main/res/layout/fragment_history.xml" value="0.13229166666666667" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.23822463768115942" />
         <entry key="app/src/main/res/layout/fragment_posture_video.xml" value="0.12228260869565218" />
         <entry key="app/src/main/res/layout/fragment_practice_list.xml" value="0.24921569824218748" />
         <entry key="app/src/main/res/layout/fragment_record.xml" value="0.2303497314453124" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.2223731884057971" />
         <entry key="app/src/main/res/layout/history_list_item.xml" value="0.13229166666666667" />
         <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.22877197265625" />
         <entry key="app/src/main/res/menu/context_menu.xml" value="0.2671875" />

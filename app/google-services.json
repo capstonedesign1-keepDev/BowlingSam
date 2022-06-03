@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:198088682198:android:8153feaf8c327f07633777",
         "android_client_info": {
-          "package_name": "org.tensorflow.lite.examples.poseestimation"
+          "package_name": "org.examples.BowlingSam"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "198088682198-c9t5c65ue36urm87a5kqfcl21h5v02t8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "org.tensorflow.lite.examples.poseestimation",
+            "package_name": "org.examples.BowlingSam",
             "certificate_hash": "aebd3001c22a6bccefa22ebd167349c408956ce1"
           }
         },

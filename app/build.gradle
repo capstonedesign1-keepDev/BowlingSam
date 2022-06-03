@@ -14,7 +14,7 @@ android {
         configurations.all {
             resolutionStrategy { force 'androidx.core:core-ktx:1.6.0' }
         }
-        applicationId "org.tensorflow.lite.examples.poseestimation"
+        applicationId "org.examples.BowlingSam"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
