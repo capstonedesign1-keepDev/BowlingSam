@@ -30,9 +30,9 @@
 --------------
 볼링 자세 연습을 카메라를 통해 합니다.
 
-![자세 연습](https://user-images.githubusercontent.com/81752546/171999222-57e49a22-5260-48e4-b86e-82a25481f186.png)
+![자세 연습](https://user-images.githubusercontent.com/81752546/171999563-8020a8cc-2dbe-4f2c-b007-74de4366c914.png)
 
 
 연습한 자세 피드백을 받습니다.
 
-![자세 피드백](https://user-images.githubusercontent.com/81752546/171999300-bdbc8ce1-2fc8-4341-93b7-7f53d8059536.png)
+![자세 피드백](https://user-images.githubusercontent.com/81752546/171999565-b38092c3-0fa3-40fa-a85b-1fa97cfec809.png)
